@@ -107,7 +107,8 @@ Below are representative images showing each stage of the morphology analysis.
 
 ### 1. Example starting prompt manu
 Example starting manu
-![Example starting manu](<img width="603" height="347" alt="Screen Shot 2025-10-24 at 12 58 32 PM" src="https://github.com/user-attachments/assets/a21fb073-b6ee-4539-9b3e-a1dea8f64899" />
+![Example starting manu](<img width="603" height="347" alt="Screen Shot 2025-10-24 at 12 58 32 PM" src="https://github.com/user-attachments/assets/16663be3-772d-4a7a-a43e-12e0fb988edf" />
+
 )
 
 ---
@@ -131,8 +132,9 @@ Cellpose segmentation mask showing individual cells with separated mother and bu
 ---
 
 ### 4. Example ROI Selection
-User-defined ROIs for mother (green) and bud (magenta).  
-![Example ROI Selection](<img width="823" height="464" alt="Screen Shot 2025-10-24 at 1 00 09 PM" src="https://github.com/user-attachments/assets/df92b596-f928-44cd-9bdb-ba7b778a9ed4" />
+User-defined ROIs for mother (purple) and bud (gray-green).  
+![Example ROI Selection](<img width="823" height="464" alt="Screen Shot 2025-10-24 at 1 00 09 PM" src="https://github.com/user-attachments/assets/0ea67ebf-b7bd-4b44-a2c1-04eeea24fc4e" />
+
 )
 
 ---
