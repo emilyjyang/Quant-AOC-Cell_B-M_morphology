@@ -104,7 +104,15 @@ Below are representative images showing each stage of the morphology analysis.
 
 ---
 
-### 1. Example Input Image
+
+### 1. Example starting prompt manu
+Example starting manu
+![Example starting manu](<img width="603" height="347" alt="Screen Shot 2025-10-24 at 12 58 32 PM" src="https://github.com/user-attachments/assets/a21fb073-b6ee-4539-9b3e-a1dea8f64899" />
+)
+
+---
+
+### 2. Example Input Image
 Raw fluorescence image (single channel or multi-channel) before MIP and processing.
 
 [Example Input Image](<img width="848" height="848" alt="JYY028-trial1-01-jdecon15-max tif (RGB)" src="https://github.com/user-attachments/assets/25ea3f1d-abca-4432-9c83-bd7365968e31" />
@@ -113,7 +121,7 @@ Raw fluorescence image (single channel or multi-channel) before MIP and processi
 
 ---
 
-### 2. Example Cellpose-Processed Mask
+### 3. Example Cellpose-Processed Mask
 Cellpose segmentation mask showing individual cells with separated mother and bud.
 
 [Example Cellpose Mask](<img width="848" height="848" alt="JYY028-trial1-01-jdecon15-max_cp_masks" src="https://github.com/user-attachments/assets/e2ab6491-c62a-48fe-9c64-01305c79fb55" />
@@ -122,15 +130,10 @@ Cellpose segmentation mask showing individual cells with separated mother and bu
 
 ---
 
-### 3. Example ROI Selection
+### 4. Example ROI Selection
 User-defined ROIs for mother (green) and bud (magenta).  
-![Example ROI Selection](images/example_morph_roi.png)
-
----
-
-### 4. Example Output Measurements
-Example CSV or table output showing measured parameters for each cell.  
-![Example Output Table](images/example_morph_output.png)
+![Example ROI Selection](<img width="823" height="464" alt="Screen Shot 2025-10-24 at 1 00 09 PM" src="https://github.com/user-attachments/assets/df92b596-f928-44cd-9bdb-ba7b778a9ed4" />
+)
 
 ---
 
