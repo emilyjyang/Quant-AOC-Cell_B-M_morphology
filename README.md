@@ -148,8 +148,9 @@ User-defined ROIs for mother (purple) and bud (gray-green).
 ---
 
 ## Citation
-If you use this macro in your research, please cite:  
-> Emily J. Yang, *AOC-Cell_B-M_morphology-v1.ijm: FIJI Macro for Yeast Mother–Bud Morphology Quantification*, [2025].
+If you use these macros in your research, please cite:  
+> Yang, E.J.-N., Filpo, K., Boldogh, I., Swayne, T.C., and Pon, L.A. "Tying up loose ends: an actin cable organizing center contributes to actin cable polarity, function and quality control in budding yeast." submitted. [2025]
+
 
 ---
 
