@@ -102,15 +102,23 @@ Additional intermediate files are saved for reproducibility:
 
 Below are representative images showing each stage of the morphology analysis.
 
+---
+
 ### 1. Example Input Image
-Raw yeast fluorescence image before Cellpose segmentation.  
-![Example Input Image](images/example_morph_input.png)
+Raw fluorescence image (single channel or multi-channel) before MIP and processing.
+
+[Example Input Image](<img width="848" height="848" alt="JYY028-trial1-01-jdecon15-max tif (RGB)" src="https://github.com/user-attachments/assets/25ea3f1d-abca-4432-9c83-bd7365968e31" />
+
+)
 
 ---
 
-### 2. Example Cellpose Mask
-Cellpose-generated mask showing separated mother and bud regions.  
-![Example Cellpose Mask](images/example_morph_mask.png)
+### 2. Example Cellpose-Processed Mask
+Cellpose segmentation mask showing individual cells with separated mother and bud.
+
+[Example Cellpose Mask](<img width="848" height="848" alt="JYY028-trial1-01-jdecon15-max_cp_masks" src="https://github.com/user-attachments/assets/e2ab6491-c62a-48fe-9c64-01305c79fb55" />
+
+)
 
 ---
 
