@@ -104,7 +104,7 @@ Below are representative images showing each stage of the morphology analysis.
 
 ### 1. Example starting prompt manu
 Example starting manu
-![Example starting manu](<img width="603" height="347" alt="Screen Shot 2025-10-24 at 12 58 32 PM" src="https://github.com/user-attachments/assets/16663be3-772d-4a7a-a43e-12e0fb988edf" />
+(<img width="603" height="347" alt="Screen Shot 2025-10-24 at 12 58 32 PM" src="https://github.com/user-attachments/assets/16663be3-772d-4a7a-a43e-12e0fb988edf" />
 
 )
 
@@ -113,7 +113,7 @@ Example starting manu
 ### 2. Example Input Image
 Raw fluorescence image (single channel or multi-channel) before MIP and processing.
 
-[Example Input Image](<img width="848" height="848" alt="JYY028-trial1-01-jdecon15-max tif (RGB)" src="https://github.com/user-attachments/assets/25ea3f1d-abca-4432-9c83-bd7365968e31" />
+(<img width="848" height="848" alt="JYY028-trial1-01-jdecon15-max tif (RGB)" src="https://github.com/user-attachments/assets/25ea3f1d-abca-4432-9c83-bd7365968e31" />
 
 )
 
@@ -122,7 +122,7 @@ Raw fluorescence image (single channel or multi-channel) before MIP and processi
 ### 3. Example Cellpose-Processed Mask
 Cellpose segmentation mask showing individual cells with separated mother and bud.
 
-[Example Cellpose Mask](<img width="848" height="848" alt="JYY028-trial1-01-jdecon15-max_cp_masks" src="https://github.com/user-attachments/assets/e2ab6491-c62a-48fe-9c64-01305c79fb55" />
+(<img width="848" height="848" alt="JYY028-trial1-01-jdecon15-max_cp_masks" src="https://github.com/user-attachments/assets/e2ab6491-c62a-48fe-9c64-01305c79fb55" />
 
 )
 
@@ -130,7 +130,7 @@ Cellpose segmentation mask showing individual cells with separated mother and bu
 
 ### 4. Example ROI Selection
 User-defined ROIs for mother (purple) and bud (gray-green).  
-![Example ROI Selection](<img width="823" height="464" alt="Screen Shot 2025-10-24 at 1 00 09 PM" src="https://github.com/user-attachments/assets/0ea67ebf-b7bd-4b44-a2c1-04eeea24fc4e" />
+(<img width="823" height="464" alt="Screen Shot 2025-10-24 at 1 00 09 PM" src="https://github.com/user-attachments/assets/0ea67ebf-b7bd-4b44-a2c1-04eeea24fc4e" />
 
 )
 
